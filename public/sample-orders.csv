@@ -1,0 +1,11 @@
+Order Number,Carrier,Product Description,Quantity,Value (USD),Origin City,Origin State,Destination City,Destination State,Shipment Date,Service Type
+ORD-1001,FedEx Freight,Solar Panel 400W,10,6000,Phoenix,AZ,Dallas,TX,2025-07-01,LTL
+ORD-1002,UPS Freight,Inverter 5kW,5,2500,Los Angeles,CA,Denver,CO,2025-07-02,LTL
+ORD-1003,XPO Logistics,Panel Mount Kit,50,2000,Tampa,FL,Atlanta,GA,2025-07-04,FTL
+ORD-1004,FedEx Freight,Solar Panel 500W,8,4800,Phoenix,AZ,Chicago,IL,2025-07-10,LTL
+ORD-1005,YRC Freight,Battery 48V,3,4500,Miami,FL,Boston,MA,2025-08-01,LTL
+ORD-1006,UPS Freight,Microinverter 3kW,7,3500,San Diego,CA,Las Vegas,NV,2025-08-03,LTL
+ORD-1007,XPO Logistics,Solar Cable Kit,30,900,Orlando,FL,Charlotte,NC,2025-08-05,FTL
+ORD-1008,FedEx Freight,Solar Panel 400W,12,7200,Phoenix,AZ,Dallas,TX,2025-08-08,LTL
+ORD-1009,YRC Freight,Inverter 10kW,2,8000,Seattle,WA,Portland,OR,2025-08-09,FTL
+ORD-1010,UPS Freight,Racking Set,20,3000,Houston,TX,Phoenix,AZ,2025-08-10,LTL
